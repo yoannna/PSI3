@@ -1,5 +1,5 @@
 generuoti:
-	xelatex kursinis.tex
+	xelatex PSI.tex
 	biber kursinis
 
 ubuntu:
